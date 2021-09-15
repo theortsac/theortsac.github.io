@@ -2,7 +2,7 @@ var Typer = {
   text: '',
   accessCountimer: null,
   index: 0,
-  speed: 5,
+  speed: 4,
   file: '',
   accessCount: 0,
   deniedCount: 0,
