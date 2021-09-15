@@ -23,3 +23,4 @@ If you want to contact me, or see my social medias, here are some links:<br/>
 - <a href="https://www.youtube.com/channel/UC_pbCAqBzH_EaSkOKLDWD9w">Youtube</a>
 - <a href="https://twitter.com/OrtsacThe">My Twitter</a>
 </p>
+<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$ </span>
