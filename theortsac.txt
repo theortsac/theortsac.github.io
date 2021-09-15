@@ -2,11 +2,11 @@
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat theortsac.txt<br/>
 Hello, I am TheOrtsac a, I live in Brazil and I am a <span id="k">professional developer</span>.
 <p>I'm a developer who started programming in 2018, since then I've been on many paths, whether it's game development, python program creation, web development or participation in computer olympics. I'm always working to improve myself, and also to reinvent myself as a professional. Programming is my passion, which is why I chose this career path.</p>
-<p><span id="k">“Why is my profession important?”</span><br/>
+<p><span id="a">“Why is my profession important?”</span><br/>
 - I think it's because the people in the programming area can make the slightest bit of imagination into reality through the art of coding<br/>.
-<span id="k">“What do I think about the programming industry?”</span><br/>
+<span id="a">“What do I think about the programming industry?”</span><br/>
 - The programming industry for me will be (if it's not already) the dominant industry in all spectrums of society, we can turn our knowledge into money, another reason that I focus on it.<br/>
-<span id="k">“How do I treat other professionals in my industry (and in general?)”</span><br/>
+<span id="a">“How do I treat other professionals in my industry (and in general?)”</span><br/>
 - As everyone in this world, I was born with no knowledge, and I depended on the people that supported me and me desire of learning something to develop it, that's why I like to treat a starting programmer like I would like to be treated when I started. And when it comes to people with the same level of knowledge or above me, I always like to talk with them about what we are learning and what we are able to do, we are able to get lots of insights with it.
 </p>
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$ </span>
