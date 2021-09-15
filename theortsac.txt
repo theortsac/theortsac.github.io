@@ -1,4 +1,14 @@
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~</span><span id="c">$</span> cd TheOrtsac/About-Me
+<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat myExperienceAndContacts.txt<br/>
+<p>
+I have experience in several areas with personal projects, you can check this out on <a href="https://github.com/theortsac">my GitHub</a>, however I sold projects involving only python scripts that generate images and metadata, generally used for the NFT world, and this is my main area of ​​expertise, I participated in the <a href="https://lypticbunniesinc.org/">Lyptic Bunnies</a> project, generating the images and metadata for it.<br/>
+If you want to contact me, or see my social medias, here are some links:<br/>
+- <a href="mailto:jpgcdc@gmail.com">My Email</a><br/>
+- My Discord: The Ortsac#0087<br/>
+- <a href="https://github.com/theortsac">GitHub</a><br/>
+- <a href="https://www.youtube.com/channel/UC_pbCAqBzH_EaSkOKLDWD9w">Youtube</a><br/>
+- <a href="https://twitter.com/OrtsacThe">My Twitter</a>
+</p>
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat aboutMeAndPhilosophy.txt<br/>
 Hello, I am TheOrtsac, I live in Brazil and I am a <span id="k">professional developer</span>.
 <p>I'm a developer who started programming in 2018, since then I've been on many paths, whether it's game development, python program creation, web development or participation in computer olympics. I'm always working to improve myself, and also to reinvent myself as a professional. Programming is my passion, which is why I chose this career path.</p>
@@ -12,15 +22,5 @@ Hello, I am TheOrtsac, I live in Brazil and I am a <span id="k">professional dev
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat biographyAndAwards.txt<br/>
 <p>
 I got my first cell phone when I was 5 years old, I was baffled by that object that looked like magic in my eyes. Since then I fell in love with technology, but I was always interested in creating things, whatever it was. I started writing a book, and published this in 2017 at the age of 8 years old. A short time later I became interested in the hacker world, and I downloaded Kali Linux onto my computer, but in the end I couldn't do anything about it. So I went into the gaming world, I started with Java but it was really boring, so I went to GameMaker Studio 2, and there using the Game Maker Language, I took my first steps with programming. I continued until I got here, I'm doing the Brazilian Informatics Olympiad and I reached the national stage (when I receive more information I'll update you), at level 1 of the Olympiad for the first and second year of high school, I'm in the seventh of elementary school. My dreams are to get into MIT, and be a successful person with possibly a successful company.
-</p>
-<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat myExperienceAndContacts.txt<br/>
-<p>
-I have experience in several areas with personal projects, you can check this out on <a href="https://github.com/theortsac">my GitHub</a>, however I sold projects involving only python scripts that generate images and metadata, generally used for the NFT world, and this is my main area of ​​expertise, I participated in the <a href="https://lypticbunniesinc.org/">Lyptic Bunnies</a> project, generating the images and metadata for it.<br/>
-If you want to contact me, or see my social medias, here are some links:<br/>
-- <a href="mailto:jpgcdc@gmail.com">My Email</a><br/>
-- My Discord: The Ortsac#0087<br/>
-- <a href="https://github.com/theortsac">GitHub</a><br/>
-- <a href="https://www.youtube.com/channel/UC_pbCAqBzH_EaSkOKLDWD9w">Youtube</a><br/>
-- <a href="https://twitter.com/OrtsacThe">My Twitter</a>
 </p>
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$ </span>
