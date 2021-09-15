@@ -17,7 +17,7 @@ I got my first cell phone when I was 5 years old, I was baffled by that object t
 <p>
 I have experience in several areas with personal projects, you can check this out on <a href="https://github.com/theortsac">my GitHub</a>, however I sold projects involving only python scripts that generate images and metadata, generally used for the NFT world, and this is my main area of ​​expertise, I participated in the <a href="https://lypticbunniesinc.org/">Lyptic Bunnies</a> project, generating the images and metadata for it.<br/>
 If you want to contact me, or see my social medias, here are some links:<br/>
-- <a href="jpgcdc@gmail.com">My Email</a><br/>
+- <a href="mailto:jpgcdc@gmail.com">My Email</a><br/>
 - My Discord: The Ortsac#0087<br/>
 - <a href="https://github.com/theortsac">GitHub</a><br/>
 - <a href="https://www.youtube.com/channel/UC_pbCAqBzH_EaSkOKLDWD9w">Youtube</a><br/>
