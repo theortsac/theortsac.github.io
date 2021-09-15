@@ -1,6 +1,6 @@
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~</span><span id="c">$</span> cd TheOrtsac/About-Me
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat aboutMeAndPhilosophy.txt<br/>
-Hello, I am TheOrtsac a, I live in Brazil and I am a <span id="k">professional developer</span>.
+Hello, I am TheOrtsac, I live in Brazil and I am a <span id="k">professional developer</span>.
 <p>I'm a developer who started programming in 2018, since then I've been on many paths, whether it's game development, python program creation, web development or participation in computer olympics. I'm always working to improve myself, and also to reinvent myself as a professional. Programming is my passion, which is why I chose this career path.</p>
 <p><span id="a">“Why is my profession important?”</span><br/>
 - I think it's because the people in the programming area can make the slightest bit of imagination into reality through the art of coding.<br/>
