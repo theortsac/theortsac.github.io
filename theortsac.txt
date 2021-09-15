@@ -19,8 +19,8 @@ I have experience in several areas with personal projects, you can check this ou
 If you want to contact me, or see my social medias, here are some links:<br/>
 - <a href="jpgcdc@gmail.com">My Email</a><br/>
 - My Discord: The Ortsac#0087<br/>
-- <a href="https://github.com/theortsac">GitHub</a>
-- <a href="https://www.youtube.com/channel/UC_pbCAqBzH_EaSkOKLDWD9w">Youtube</a>
+- <a href="https://github.com/theortsac">GitHub</a><br/>
+- <a href="https://www.youtube.com/channel/UC_pbCAqBzH_EaSkOKLDWD9w">Youtube</a><br/>
 - <a href="https://twitter.com/OrtsacThe">My Twitter</a>
 </p>
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$ </span>
