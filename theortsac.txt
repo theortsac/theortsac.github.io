@@ -1,13 +1,13 @@
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~</span><span id="c">$</span> cd TheOrtsac/About-Me
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat myExperienceAndContacts.txt<br/>
 <p>
-I have experience in several areas with personal projects, you can check this out on <a href="https://github.com/theortsac">my GitHub</a>, however I sold projects involving only python scripts that generate images and metadata, generally used for the NFT world, and this is my main area of ​​expertise, I participated in the <a href="https://lypticbunniesinc.org/">Lyptic Bunnies</a> project, generating the images and metadata for it.<br/>
+I have experience in several areas with personal projects, you can check this out on <a href="https://github.com/theortsac" target="_blank" rel="noopener noreferrer">my GitHub</a>, however I sold projects involving only python scripts that generate images and metadata, generally used for the NFT world, and this is my main area of ​​expertise, I participated in the <a href="https://lypticbunniesinc.org/" target="_blank" rel="noopener noreferrer">Lyptic Bunnies</a> project, generating the images and metadata for it.<br/>
 If you want to contact me, or see my social medias, here are some links:<br/>
-- <a href="mailto:jpgcdc@gmail.com">My Email</a><br/>
+- <a href="mailto:jpgcdc@gmail.com" target="_blank" rel="noopener noreferrer">My Email</a><br/>
 - My Discord: The Ortsac#0087<br/>
-- <a href="https://github.com/theortsac">GitHub</a><br/>
-- <a href="https://www.youtube.com/channel/UC_pbCAqBzH_EaSkOKLDWD9w">Youtube</a><br/>
-- <a href="https://twitter.com/OrtsacThe">My Twitter</a>
+- <a href="https://github.com/theortsac" target="_blank" rel="noopener noreferrer">GitHub</a><br/>
+- <a href="https://www.youtube.com/channel/UC_pbCAqBzH_EaSkOKLDWD9w" target="_blank" rel="noopener noreferrer">Youtube</a><br/>
+- <a href="https://twitter.com/OrtsacThe" target="_blank" rel="noopener noreferrer">My Twitter</a>
 </p>
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat aboutMeAndPhilosophy.txt<br/>
 Hello, I am TheOrtsac, I live in Brazil and I am a <span id="k">professional developer</span>.
