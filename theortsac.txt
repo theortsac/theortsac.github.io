@@ -17,7 +17,7 @@ Hello, I am TheOrtsac, I live in Brazil and I am a <span id="k">professional dev
 <span id="a">“What do I think about the programming industry?”</span><br/>
 - The programming industry for me will be (if it's not already) the dominant industry in all spectrums of society, we can turn our knowledge into money, another reason that I focus on it.<br/>
 <span id="a">“How do I treat other professionals in my industry (and in general?)”</span><br/>
-- As everyone in this world, I was born with no knowledge, and I depended on the people that supported me and me desire of learning something to develop it, that's why I like to treat a starting programmer like I would like to be treated when I started. And when it comes to people with the same level of knowledge or above me, I always like to talk with them about what we are learning and what we are able to do, we are able to get lots of insights with it.
+- As everyone in this world, I was born with no knowledge, and I depended on the people that supported me and my desire of learning something to develop it, that's why I like to treat a starting programmer like I would have liked to be treated when I started. And when it comes to people with the same level of knowledge or above me, I always like to talk with them about what we are learning and what we are able to do, we are able to get lots of insights with it.
 </p>
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat biographyAndAwards.txt<br/>
 <p>
