@@ -1,46 +1,20 @@
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~</span><span id="c">$</span> cd TheOrtsac/About-Me
-<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat
-myExperienceAndContacts.txt<br />
+<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat myExperienceAndContacts.txt<br />
 <p>
-    I have experience in several areas with personal projects, you can check this out on <a
-        href="https://github.com/theortsac" target="_blank" rel="noopener noreferrer">my GitHub</a>. I sold projects of
-    ERC721 Smart Contracts, images and metadata generation, not revealed NFTs generation, IPFS upload, and discord bots
-    (including floor price ones). Some of those works are: <a href="https://www.metabunniesinc.org/" target="_blank"
-        rel="noopener noreferrer">Meta Bunnies Inc.</a> image/metadata generation and IPFS upload, a floor price bot for
-    <a href="https://linktr.ee/OctopusManM" target="_blank" rel="noopener noreferrer">Octopus Man Marketing</a>, an
-    ERC721 Smart Contract for ProbleMatic Aliens, etc.
-    <br />
-    Talk with me: theortsac#0001, <a href="mailto:jpgcdc@gmail.com" target="_blank" rel="noopener noreferrer">my
-        email</a>, <a href="https://twitter.com/OrtsacThe" target="_blank" rel="noopener noreferrer">my twitter</a>.
+    I have experience in several areas with personal projects, you can check this out on <a href="https://github.com/theortsac" target="_blank" rel="noopener noreferrer">my GitHub</a>. I sold projects of ERC721 Smart Contracts, images and metadata generation, not revealed NFTs generation, IPFS upload, and discord bots (including floor price ones). Some of those works are: <a href="https://www.metabunniesinc.org/" target="_blank" rel="noopener noreferrer">Meta Bunnies Inc.</a> image/metadata generation and IPFS upload, a floor price bot for <a href="https://linktr.ee/OctopusManM" target="_blank" rel="noopener noreferrer">Octopus Man Marketing</a>, an ERC721 Smart Contract for ProbleMatic Aliens, etc. <br /> Talk with me: theortsac#0001, <a href="mailto:jpgcdc@gmail.com" target="_blank" rel="noopener noreferrer">my email</a>, <a href="https://twitter.com/OrtsacThe" target="_blank" rel="noopener noreferrer">my twitter</a>.
 </p>
-<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat
-aboutMeAndPhilosophy.txt<br />
+<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat aboutMeAndPhilosophy.txt<br />
 Hello, I am TheOrtsac, I live in Brazil and I am a <span id="k">professional developer</span>.
-<p>I started programming in 2018, since then I've been on many paths, whether it's game
-    development, python, solidity, or participation in computer olympiads. I'm always working to improve, and also to
-    reinvent myself as a professional. Programming is my passion, which is why I chose this career path.</p>
+<p>I started programming in 2018, since then I've been on many paths, whether it's game development, python, solidity, or participation in computer olympiads. I'm always working to improve, and also to reinvent myself as a professional. Programming is my passion, which is why I chose this career path.</p>
 <p><span id="a">“Why is my profession important?”</span><br />
-    - I think it's because the people in the programming area can solve complicated problems and create amazing
-    experiences with the slightest bit of imagination..<br />
+    - I think it's because the people in the programming area can solve complicated problems and create amazing experiences with the slightest bit of imagination..<br />
     <span id="a">“What do I think about the programming industry?”</span><br />
-    - The programming industry for me will be (if it's not already) the dominant industry in all spectrums of
-    society, we can turn our knowledge into money, another reason that I focus on it.<br />
+    - The programming industry for me will be (if it's not already) the dominant industry in all spectrums of society, we can turn our knowledge into money, another reason that I focus on it.<br />
     <span id="a">“How do I treat other professionals in my industry (and in general?)”</span><br />
-    - As everyone in this world, I was born with no knowledge, and I depended on the people that supported me and my
-    desire of learning to develop it, that's why I like to treat a starting programmer like I would have
-    liked to be treated when I started. I apply this thought with anyone in my life.
+    - As everyone in this world, I was born with no knowledge, and I depended on the people that supported me and my desire of learning to develop it, that's why I like to treat a starting programmer like I would have liked to be treated when I started. I apply this thought with anyone in my life.
 </p>
-<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat
-biographyAndAwards.txt<br />
+<span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$</span> cat biographyAndAwards.txt<br />
 <p>
-    I got my first cell phone when I was 5 years old, baffled by that object that looked like magic in my eyes.
-    Since then I fell in love with technology, but I was always interested in creating things, whatever it was. I
-    started writing a book, and published in 2017. A short time later I became interested in the hacker world, and
-    downloaded Kali Linux onto my computer, but in the end I couldn't do anything about it. After it I go into into
-    the gaming world, I started with Java but it was really boring, so I went to GameMaker Studio 2, and there using the
-    Game Maker Language, I took my first steps with programming. I continued and decided to breach my knowledge to other
-    languages such as Python and C++. After entering the NFT world I started learning Solidity. I'm doing the Brazilian
-    Informatics Olympiad, and this year I became the second place in my state and 55th in the whole country (in a level
-    higher than mine if considered only age).
+    I got my first cell phone when I was 5 years old, baffled by that object that looked like magic in my eyes. Since then I fell in love with technology, but I was always interested in creating things, whatever it was. I started writing a book, and published in 2017. A short time later I became interested in the hacker world, and downloaded Kali Linux onto my computer, but in the end I couldn't do anything about it. After it I go into into the gaming world, I started with Java but it was really boring, so I went to GameMaker Studio 2, and there using the Game Maker Language, I took my first steps with programming. I continued and decided to breach my knowledge to other languages such as Python and C++. After entering the NFT world I started learning Solidity. I'm doing the Brazilian Informatics Olympiad, and this year I became the second place in my state and 55th in the whole country (in a level higher than mine if considered only age).
 </p>
 <span id="a">theOrtsac@enterprise</span>:<span id="b">~/TheOrtsac/About-Me</span><span id="c">$ </span>
